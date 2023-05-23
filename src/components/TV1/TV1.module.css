@@ -1,0 +1,71 @@
+.root {
+  position: relative;
+  width: 1280px;
+  height: 720px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.frame4 {
+  position: absolute;
+  left: 255px;
+  top: 238px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 28px;
+  padding: 10px;
+}
+.frame1 {
+  width: 524px;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 0 10px;
+}
+.frame3 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+.rectangle2 {
+  width: 188px;
+  height: 100px;
+  background-color: #ff5757;
+}
+.rectangle3 {
+  width: 188px;
+  height: 100px;
+  background-color: #ff66c4;
+}
+.frame2 {
+  width: 165.6846px;
+  height: 218.1337px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.rectangle1 {
+  width: 100px;
+  height: 214px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle4 {
+  width: 524px;
+  height: 39px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
